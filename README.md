@@ -1,5 +1,7 @@
 # keen-dataviz.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/animatecitizen/keen-dataviz.js.svg)](https://greenkeeper.io/)
+
 This project contains the most advanced data visualization functionality available for Keen IO, and will soon be built directly into [keen-js](https://github.com/keen/keen-js), replacing and upgrading the current visualization capabilities of that library.
 
 **What's new:**
